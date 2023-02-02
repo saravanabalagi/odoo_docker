@@ -1,0 +1,4 @@
+[submodule "16.0/addons"]
+	path = 16.0/addons
+	url = https://github.com/odoomates/odooapps.git
+	branch = 16.0
