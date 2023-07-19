@@ -1,9 +1,9 @@
 version: '3.1'
-name: odoo_v16
+name: odoo_v14
 services:
   web:
     container_name: web
-    image: .
+    build: .
     depends_on:
       - db
     volumes:
