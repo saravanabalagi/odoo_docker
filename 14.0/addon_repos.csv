@@ -1,0 +1,18 @@
+github_url,github_branch,dirname,copy_globs
+https://github.com/odoomates/odooapps,14.0,om_odooapps,om_*/ accounting_*/ task_*/ razorpay_*/
+https://github.com/OCA/account-reconcile,14.0,oca_account_reconcile,account_*/
+https://github.com/OCA/account-financial-reporting,14.0,oca_account_financial_reporting,account_*/ mis_*/ partner_statement
+https://github.com/OCA/web,14.0,oca_web,web_*/ support_branding
+https://github.com/OCA/bank-statement-import,14.0,oca_bank_statement_import,account_*/
+https://github.com/OCA/server-ux,14.0,oca_server_ux,base_*/ server_*/ barcode_*/ chained_*/ date_*/ default_*/ document_*/ filter_*/ multi_*/ sequence_*/
+https://github.com/OCA/server-brand,14.0,oca_server_brand,*_odoo_*/
+https://github.com/OCA/payroll,14.0,oca_payroll,hr_*/ payroll_*/ payroll/
+https://github.com/OCA/reporting-engine,14.0,oca_reporting_engine,report_*/ kpi_*/ bi_*/ base_*/
+https://github.com/OCA/account-financial-tools,14.0,oca_account_financial_tools,account_*/ base_*/ product_*/
+https://github.com/OCA/account-invoice-reporting,14.0,oca_account_invoice_reporting,account_*/ partner_*/
+https://github.com/OCA/hr,14.0,oca_hr,hr_*/ gamification_*/ resource_*/
+https://github.com/OCA/hr-expense,14.0,oca_hr_expense,hr_*/
+https://github.com/OCA/account-closing,14.0,oca_account_closing,account_*/
+https://github.com/OCA/account-invoicing,14.0,oca_account_invoicing,account_*/ purchase_*/ sale_*/ stock_*/
+https://github.com/OCA/bank-payment,14.0,oca_bank_payment,account_*/
+https://github.com/OCA/project,14.0,oca_project,project_*/
