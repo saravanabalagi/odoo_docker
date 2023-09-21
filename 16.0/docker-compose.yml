@@ -3,7 +3,7 @@ name: odoo_v16
 services:
   web:
     container_name: web
-    image: .
+    build: .
     depends_on:
       - db
     volumes:
@@ -19,7 +19,7 @@ services:
       - PASSWORD=${POSTGRES_PASSWORD}
   db:
     container_name: db
-    image: postgres:13
+    image: postgres:15
     env_file:
       - .env
     environment:
