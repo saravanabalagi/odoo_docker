@@ -3,7 +3,7 @@ name: odoo_v16
 services:
   web:
     container_name: web
-    image: .
+    build: .
     depends_on:
       - db
     volumes:
